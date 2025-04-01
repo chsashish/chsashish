@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 **Hello, I'm Ashish Thakur**
+🚀 Front-End Developer | *Designer* | Tech Enthusiast
+Welcome to my GitHub! I'm a self-taught Front-End Developer passionate about building *beautiful* and performant web experiences. I specialize in HTML, CSS, JavaScript, and frameworks like React.js and Angular. I'm always exploring new technologies and improving my skills.
 
-<!--
-**chsashish/chsashish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 **Technologies & Tools**:
+Languages: HTML, CSS, JavaScript
 
-Here are some ideas to get you started:
+Frameworks: React, Angular
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Libraries: jQuery, Bootstrap
+
+Version Control: Git, GitHub
+
+Design: Figma, Photoshop
+
+Others: npm, Webpack, Babel
+
+
+🌱 **Current Focus**:
+Building responsive web applications.
+
+Learning more about TypeScript and Next.js.
+
+Contributing to open-source projects.
+
+
+
